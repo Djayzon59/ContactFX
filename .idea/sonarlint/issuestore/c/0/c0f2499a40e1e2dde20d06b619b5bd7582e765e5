@@ -1,0 +1,12 @@
+
+h
+java:S1301D"KReplace this "switch" statement by "if" statements to increase readability.(™Ï®¸8ÎÒÎ ´1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŞÔĞ±8êÒÎ ´1
+>	java:S131D""Add a default case to this switch.(™Ï®¸8÷ÒÎ ´1
+N
+java:S1602^",Remove useless curly braces around statement(¬ªóıÿÿÿÿ8€ÓÎ ´1
+I
+java:S1125d"'Remove the unnecessary boolean literal.(’¼ıµùÿÿÿÿ8ÓÎ ´1
+I
+java:S1125d"'Remove the unnecessary boolean literal.(’¼ıµùÿÿÿÿ8‚ÓÎ ´1

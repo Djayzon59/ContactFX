@@ -1,0 +1,7 @@
+
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô·Ã´1
+K
+java:S1481,")Remove this unused "font" local variable.(«Øàíıÿÿÿÿ8œ¸Ã´1
+L	java:S106_"+Replace this use of System.out by a logger.(¥ãÙØùÿÿÿÿ8µ¸Ã´1
+E
+java:S1068"(Remove this unused "file" private field.(ïÛú8¶¸Ã´1

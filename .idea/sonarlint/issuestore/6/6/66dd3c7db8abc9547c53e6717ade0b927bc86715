@@ -1,0 +1,5 @@
+
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ğÆûô8§¶Ş‹´1
+_
+java:S1117$"BRename "listePersonnes" which hides the field declared at line 21.(¡æÀä8¬¶Ş‹´1

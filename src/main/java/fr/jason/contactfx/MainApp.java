@@ -31,6 +31,7 @@ public class MainApp extends Application {
 
     @Override
     public void start(Stage primaryStage) throws IOException {
+        //test
         this.primaryStage = primaryStage;
         this.primaryStage.setTitle("Contacts App");
         this.primaryStage.setHeight(650);

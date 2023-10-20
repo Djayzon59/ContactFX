@@ -25,7 +25,8 @@ public class PersonneController {
     @FXML
     private Label postalCodeLabel;
     @FXML
-    private Label cityLabel;
+    private
+    Label cityLabel;
     @FXML
     private Label birthdayLabel;
 
